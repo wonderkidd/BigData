@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a44a74c3-60c6-4591-8597-c06e1cbdd15e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BigData.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BigData.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -47,6 +48,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -71,7 +73,11 @@
       <option name="presentableId" value="Default" />
       <updated>1705346914301</updated>
       <workItem from="1705346920068" duration="8069000" />
-      <workItem from="1705357442666" duration="3027000" />
+      <workItem from="1705357442666" duration="7052000" />
+      <workItem from="1705391514484" duration="43000" />
+      <workItem from="1705432989427" duration="2030000" />
+      <workItem from="1705439854666" duration="20000" />
+      <workItem from="1705445023398" duration="1913000" />
     </task>
     <servers />
   </component>
